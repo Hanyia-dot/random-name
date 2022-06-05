@@ -1,14 +1,17 @@
 body {
+    background-color: #f1f2f6;
     font-family: arial;
+    color: #2f3542;
 }
 
 button {
     display: block;
     margin: 50px auto 50px;
-    background-color: #ff6b81;
+    background-color: #70a1ff;
     border: 5px solid #5352ed;
     padding: 20px 50px; 
     font-size: 22px;
+    color: #2f3542;
 }
 
 div {
